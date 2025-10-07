@@ -13,13 +13,13 @@ I aim to build a career in cybersecurity by developing practical security tools,
 
 ### 🛠️ Tech Stack
 - **Languages:** Python, Bash 
-- **Tools & Platforms:** Linux, VirtualBox, Git, GitHub
+- **Tools & Platforms:** Linux, VirtualBox, GitHub
 - **Areas of Focus:** Cybersecurity, Network Security, Cloud Security, Ethical Hacking  
 
 ---
 
 ### 🌱 What I’m Currently Learning
-- Strengthening my understanding of **cybersecurity fundamentals**  
+- Strengthening my understanding of **cybersecurity and networking fundamentals**  
 - Exploring and testing **security tools and frameworks**  
 - Enhancing my **Python scripting and automation** skills for security operations  
 
@@ -27,7 +27,7 @@ I aim to build a career in cybersecurity by developing practical security tools,
 
 ### 🧩 Projects
 - <a href="https://github.com/alagskomahd/MAC-Address-Changer"> MAC Address Changer </a>
-- Network Ccanner
+- Network Scanner
 - ARP Spoofer  
 
 ---
