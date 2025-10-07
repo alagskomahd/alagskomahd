@@ -27,7 +27,7 @@ I aim to build a career in cybersecurity by developing practical security tools,
 
 ### 🧩 Projects
 - <a href="https://github.com/alagskomahd/MAC-Address-Changer"> MAC Address Changer </a>
-- Network Scanner
+- <a href="https://github.com/alagskomahd/Network-Scanner"> Network Scanner </a>
 - ARP Spoofer  
 
 ---
